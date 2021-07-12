@@ -1,6 +1,6 @@
 # Dataset background
 
-This __TN_FEEr.RData__ file was used to demonstrate the usage of the [FEEr package](https://github.com/tz05/FEEr) and the application of FEE index ([Zhang et al. 2021](https://doi.org/10.1002/ece3.7577)) to studying FIA plots in Tennessee. The detailed introduction of this application can be found in our manuscript titled ___FEEr: An R package for calculating Functional Extension and Evenness index___, which uses this RData as the reference dataset for readers to download and practise. Simply saying, the FIA plots included in this dataset are the FIA national design forest plots remeasured in 2017. Raw FIA data was downloaded from [FIA DataMart (FIADB_1.9.0)](https://apps.fs.usda.gov/fia/datamart/) on July 8th 2021.
+This __TN_FEEr.RData__ file was used to demonstrate the usage of the [FEEr package](https://github.com/tz05/FEEr) and the application of FEE index ([Zhang et al. 2021](https://doi.org/10.1002/ece3.7577)) to studying FIA plots in Tennessee. The detailed introduction of this application can be found in our manuscript titled ___FEEr: An R package for calculating Functional Extension and Evenness index___, which uses this file as the reference dataset for readers to download and practise. Simply saying, the FIA plots included in this dataset are the FIA national design forest plots remeasured in 2017. Raw FIA data was downloaded from [FIA DataMart (FIADB_1.9.0)](https://apps.fs.usda.gov/fia/datamart/) on July 8th 2021.
 
 # Content
 
