@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: Zhang
+    given-names: Tao
+    orcid: https://orcid.org/0000-0001-7135-1762
+title: "FEEr example data: FIA 2017 plot samples in the state of Tennessee"
+date-released: 2021-07-11
+url: "https://github.com/tz05/FEEr_TN_Example.git"
